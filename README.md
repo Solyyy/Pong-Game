@@ -25,5 +25,5 @@ For Left Player:
 - [Python](https://www.python.org/)
 
 # License
-- [MIT License](https://github.com/Solyyy/Pong-Game/blob/main/LICENSE)
+- [MIT License](https://github.com/Solyyy/Pong-Game/blob/master/LICENSE.txt)
 
