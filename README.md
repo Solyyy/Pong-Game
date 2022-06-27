@@ -1,7 +1,7 @@
 ![This is an image](https://seeklogo.com/images/P/pong-logo-9B33AA1261-seeklogo.com.png)
 
 # About
-This is the classic Pong Game built with the Turtle module, with 2 player support.
+This is the classic Pong Game built with the Turtle module with 2 player support.
 
 # Pong Gameplay
 ![This is an image](https://user-images.githubusercontent.com/37813839/116418349-702ff180-a812-11eb-8ca6-1898b7917604.gif)
